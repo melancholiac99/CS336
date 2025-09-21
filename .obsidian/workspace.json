@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "10645d48c8e31644",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df4538e01c8b1dce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +167,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "df4538e01c8b1dce",
+  "active": "307cb217c55b4227",
   "lastOpenFiles": [
     "欢迎.md",
     "创建链接.md",
